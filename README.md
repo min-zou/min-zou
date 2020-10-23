@@ -2,8 +2,15 @@
 
 [![Liu's github stats](https://github-readme-stats.vercel.app/api?username=min-zou&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on SLAM.
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=min-zou&repo=room_seg)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=min-zou&repo=line_vp_desc)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=min-zou&repo=ORB_SLAM3)](https://github.com/UZ-SLAMLab/ORB_SLAM3)
+
+- 🔭 I’m currently working on VSLAM.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-zou)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
